@@ -1,5 +1,5 @@
 # Calculadora C 🔴
-Este projeto é uma calculadora, que faz as operações digitadas. No código foi utilizado a linguagem C. 
+Este projeto é uma calculadora, pede um número, a operação e outro número e mostra o resultado. No código foi utilizado a linguagem C. 
 
 [<img height="500" src="img/Numeropar.gif">](https://github.com/Arqgilmar/N-mero-Par-em-C/tree/main/img) 
 
